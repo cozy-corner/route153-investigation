@@ -1,0 +1,2159 @@
+[
+ {
+  "ref": "158",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6248604,
+  "lon": 139.4178497,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 6,
+  "axes": 3,
+  "arms": 10,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "多摩ニュータウン通り"
+  ],
+  "ways": [
+   29489351,
+   296110124,
+   296110129,
+   322576794,
+   1245839492,
+   1245839493
+  ],
+  "node_ids": [
+   11581989279,
+   11581989282,
+   274186749
+  ],
+  "name": "島田療育センター入口",
+  "axes_by_compass": "北南:(無名) / 北東南西:(無名) / 東西:多摩ニュータウン通り / 南東北西:(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "9",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6423902,
+  "lon": 139.5089706,
+  "n_nodes": 4,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 8,
+  "classes": [
+   "primary",
+   "primary_link"
+  ],
+  "networks": [
+   "JP:prefectural",
+   "JP:prefectural:tokyo;JP:prefectural:kanagawa"
+  ],
+  "names": [
+   "川崎街道",
+   "川崎街道; 府中街道",
+   "川崎街道;府中街道",
+   "稲城大橋通り"
+  ],
+  "ways": [
+   199772803,
+   199772805,
+   378648656,
+   446527486,
+   483149294,
+   677796963,
+   677796966,
+   677796970,
+   899472779
+  ],
+  "node_ids": [
+   1810725755,
+   1810725737,
+   2097663555,
+   2097663559
+  ],
+  "name": "東長沼陸橋",
+  "axes_by_compass": "北南:稲城大橋通り / 東西:川崎街道・川崎街道; 府中街道・川崎街道;府中街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "153",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.710545,
+  "lon": 139.3867571,
+  "n_nodes": 4,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 8,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [],
+  "names": [
+   "立川昭島線"
+  ],
+  "ways": [
+   126039588,
+   128838324,
+   489740168,
+   490277657,
+   850514489,
+   850514490,
+   850514491,
+   850514492
+  ],
+  "node_ids": [
+   4824540367,
+   4824540378,
+   4824540377,
+   1398309945
+  ],
+  "name": null,
+  "axes_by_compass": "北南:立川昭島線 / 東西:立川昭島線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "153",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.7017357,
+  "lon": 139.4064214,
+  "n_nodes": 4,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 8,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [],
+  "names": [
+   "中央南北線",
+   "立川昭島線"
+  ],
+  "ways": [
+   42718384,
+   43104627,
+   43104642,
+   323785929,
+   323785930,
+   323785942,
+   323785946
+  ],
+  "node_ids": [
+   540037425,
+   190138057,
+   540037143,
+   534229690
+  ],
+  "name": "昭和記念公園立川口前",
+  "axes_by_compass": "北東南西:(無名)・中央南北線 / 東西:立川昭島線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "20",
+  "structure": "交差",
+  "kind": "国道の可能性あり",
+  "lat": 35.6517087,
+  "lon": 139.4376354,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 8,
+  "classes": [
+   "primary",
+   "primary_link"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "川崎街道",
+   "野猿街道"
+  ],
+  "ways": [
+   24582138,
+   24593303,
+   25801929,
+   27659275,
+   172509100,
+   254109701,
+   254109702,
+   254109714,
+   258741630
+  ],
+  "node_ids": [
+   267140899,
+   267240606,
+   292642932
+  ],
+  "name": "一ノ宮",
+  "axes_by_compass": "北南:野猿街道 / 東西:川崎街道 / 南東(対向なし):川崎街道",
+  "flags": [
+   "国道/都道ref衝突の疑い"
+  ],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "158",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6132578,
+  "lon": 139.4120193,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 10,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "南多摩尾根幹線道路"
+  ],
+  "ways": [
+   25303996,
+   27846043,
+   322576793,
+   322576811,
+   505286834,
+   505286835
+  ],
+  "node_ids": [
+   275625766,
+   131906723,
+   4952582372
+  ],
+  "name": "多摩市総合福祉センター前",
+  "axes_by_compass": "北南:(無名) / 東西:南多摩尾根幹線道路",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "16",
+  "structure": "交差",
+  "kind": "国道の可能性あり",
+  "lat": 35.601558,
+  "lon": 139.3388663,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 6,
+  "classes": [
+   "trunk",
+   "trunk_link"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "八王子バイパス"
+  ],
+  "ways": [
+   25723930,
+   253571674,
+   446727603,
+   652297084,
+   652297085,
+   652297296,
+   904718349
+  ],
+  "node_ids": [
+   268015582,
+   253118411
+  ],
+  "name": "元橋本",
+  "axes_by_compass": "北南:(無名)・八王子バイパス / 南東北西:(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.5944746,
+  "lon": 139.4490419,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "鎌倉街道"
+  ],
+  "ways": [
+   24877825,
+   25291800,
+   255749059,
+   255750934,
+   255750935,
+   395037114,
+   491460300
+  ],
+  "node_ids": [
+   275511064,
+   270332641
+  ],
+  "name": "小野路",
+  "axes_by_compass": "東西:(無名)・鎌倉街道 / 南東北西:(無名)・鎌倉街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "299",
+  "structure": "交差",
+  "kind": "国道の可能性あり",
+  "lat": 35.8459551,
+  "lon": 139.3655685,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 6,
+  "classes": [
+   "trunk"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "国道299号",
+   "飯能バイパス",
+   "飯能狭山バイパス"
+  ],
+  "ways": [
+   46987158,
+   566392848,
+   639658406,
+   762856090,
+   762856091
+  ],
+  "node_ids": [
+   268612995,
+   248755985
+  ],
+  "name": "笹井",
+  "axes_by_compass": "東西:国道299号 / 南東北西:飯能バイパス・飯能狭山バイパス",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "5",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.7472498,
+  "lon": 139.4273899,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "新青梅街道",
+   "青梅街道"
+  ],
+  "ways": [
+   28717739,
+   463594266
+  ],
+  "node_ids": [
+   587705694
+  ],
+  "name": "奈良橋庚申塚",
+  "axes_by_compass": "東西:新青梅街道 / 北(対向なし):青梅街道 / 南東(対向なし):青梅街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "7",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.713057,
+  "lon": 139.5418195,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary",
+   "primary_link"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "五日市街道",
+   "井ノ頭通り"
+  ],
+  "ways": [
+   141764718,
+   859441916,
+   1219481821
+  ],
+  "node_ids": [
+   393724340
+  ],
+  "name": "関前五丁目",
+  "axes_by_compass": "北東南西:五日市街道 / 南東北西:井ノ頭通り",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "11",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6349919,
+  "lon": 139.5774215,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "本町通り",
+   "狛江通り"
+  ],
+  "ways": [
+   152465128,
+   152465147,
+   152465149,
+   252721125
+  ],
+  "node_ids": [
+   339667740
+  ],
+  "name": "狛江市民センター前",
+  "axes_by_compass": "北東南西:本町通り / 南東北西:狛江通り",
+  "flags": [],
+  "min_arm_reach_m": 87.8,
+  "spikes": []
+ },
+ {
+  "ref": "11",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.624863,
+  "lon": 139.5964,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural",
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "水道道路",
+   "荒玉水道道路"
+  ],
+  "ways": [
+   93825596,
+   183554467,
+   259266094,
+   259266096
+  ],
+  "node_ids": [
+   420566404
+  ],
+  "name": null,
+  "axes_by_compass": "北東南西:荒玉水道道路 / 東西:水道道路",
+  "flags": [],
+  "min_arm_reach_m": 229.1,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6604778,
+  "lon": 139.4576777,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "新府中街道",
+   "鎌倉街道"
+  ],
+  "ways": [
+   28852105,
+   495897292,
+   988883339,
+   1426899795
+  ],
+  "node_ids": [
+   317208390
+  ],
+  "name": "中河原駅北",
+  "axes_by_compass": "北南:新府中街道・鎌倉街道 / 東(対向なし):鎌倉街道 / 南西(対向なし):鎌倉街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6330731,
+  "lon": 139.4426912,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural",
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "鎌倉街道"
+  ],
+  "ways": [
+   25154643,
+   398438349
+  ],
+  "node_ids": [
+   274189428
+  ],
+  "name": "乞田新大橋",
+  "axes_by_compass": "北南:(無名) / 北東南西:鎌倉街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "19",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6212831,
+  "lon": 139.47898,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo",
+   "JP:prefectural:tokyo;JP:prefectural:kanagawa"
+  ],
+  "names": [
+   "東京都道19号町田調布線",
+   "鶴川街道"
+  ],
+  "ways": [
+   248204260,
+   520700718,
+   970022986,
+   1255267069
+  ],
+  "node_ids": [
+   278288094
+  ],
+  "name": "若葉台入口",
+  "axes_by_compass": "東西:鶴川街道 / 南(対向なし):東京都道19号町田調布線 / 北西(対向なし):東京都道19号町田調布線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "29",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6997262,
+  "lon": 139.3664666,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "奥多摩街道",
+   "新奥多摩街道"
+  ],
+  "ways": [
+   473030073,
+   850463353,
+   1429462568,
+   1429462569
+  ],
+  "node_ids": [
+   279807070
+  ],
+  "name": "宮沢",
+  "axes_by_compass": "北東南西:奥多摩街道 / 南東(対向なし):新奥多摩街道 / 西(対向なし):新奥多摩街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "43",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.7176061,
+  "lon": 139.4201406,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "芋窪街道"
+  ],
+  "ways": [
+   85242564,
+   995790064
+  ],
+  "node_ids": [
+   2041315813
+  ],
+  "name": null,
+  "axes_by_compass": "南東北西:芋窪街道 / 北(対向なし):(無名) / 南西(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "114",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6330802,
+  "lon": 139.57248,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "六郷さくら通り",
+   "松原通り"
+  ],
+  "ways": [
+   1356532961,
+   1356532962,
+   1356532963,
+   1356532964
+  ],
+  "node_ids": [
+   288748577
+  ],
+  "name": "田中橋",
+  "axes_by_compass": "北南:松原通り / 東西:六郷さくら通り",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "149",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.6804643,
+  "lon": 139.4041482,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [],
+  "names": [
+   "立川日野線"
+  ],
+  "ways": [
+   25667624,
+   25734610,
+   1340018380,
+   1340018381
+  ],
+  "node_ids": [
+   279818314
+  ],
+  "name": "スポーツ公園前",
+  "axes_by_compass": "北東南西:立川日野線 / 東西:立川日野線",
+  "flags": [],
+  "min_arm_reach_m": 385.3,
+  "spikes": []
+ },
+ {
+  "ref": "234",
+  "structure": "交差",
+  "kind": "都道",
+  "lat": 35.7425895,
+  "lon": 139.5623653,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 4,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo;JP:prefectural:saitama"
+  ],
+  "names": [
+   "前沢保谷線"
+  ],
+  "ways": [
+   44001391,
+   212573962,
+   1444267324,
+   1444267325
+  ],
+  "node_ids": [
+   623351387
+  ],
+  "name": "明保中学校",
+  "axes_by_compass": "東西:前沢保谷線 / 南東北西:前沢保谷線",
+  "flags": [],
+  "min_arm_reach_m": 305.8,
+  "spikes": []
+ },
+ {
+  "ref": "12",
+  "structure": "交差の疑い",
+  "kind": "都道",
+  "lat": 35.6647297,
+  "lon": 139.5429111,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "武蔵境通り"
+  ],
+  "ways": [
+   197667700,
+   251764916
+  ],
+  "node_ids": [
+   2579452008
+  ],
+  "name": "御塔坂橋南",
+  "axes_by_compass": "北南:(無名)・武蔵境通り / 南東(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "114",
+  "structure": "交差の疑い",
+  "kind": "都道",
+  "lat": 35.6593381,
+  "lon": 139.587848,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 2,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "松原通り",
+   "調布経堂停車場線"
+  ],
+  "ways": [
+   249108949,
+   775897503
+  ],
+  "node_ids": [
+   679807106
+  ],
+  "name": null,
+  "axes_by_compass": "北南:松原通り / 南東北西:調布経堂停車場線",
+  "flags": [],
+  "min_arm_reach_m": 152.7,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6346894,
+  "lon": 139.4462981,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "東京都道18号府中町田線",
+   "鎌倉街道"
+  ],
+  "ways": [
+   24633079,
+   25154643,
+   255746406,
+   255749060,
+   255749062,
+   255749066,
+   327682542,
+   327682553,
+   858156755
+  ],
+  "node_ids": [
+   294852141,
+   131905264,
+   274190022
+  ],
+  "name": "永山橋",
+  "axes_by_compass": "北東南西:鎌倉街道 / 南東(対向なし):東京都道18号府中町田線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6359956,
+  "lon": 139.448454,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "鎌倉街道"
+  ],
+  "ways": [
+   26683571,
+   27874813,
+   255746405,
+   255746406,
+   255746408,
+   255749060,
+   261057676
+  ],
+  "node_ids": [
+   274190019,
+   267767970,
+   292642108
+  ],
+  "name": "諏訪下橋",
+  "axes_by_compass": "北東南西:鎌倉街道 / 南東(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "19",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6391274,
+  "lon": 139.50001,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo",
+   "JP:prefectural:tokyo;JP:prefectural:kanagawa"
+  ],
+  "names": [
+   "南多摩尾根幹線道路",
+   "南多摩尾根幹線道路(第2通行帯)",
+   "鶴川街道",
+   "鶴川街道（信号注意！）"
+  ],
+  "ways": [
+   119627102,
+   247584342,
+   378648672,
+   888245498,
+   888437817,
+   930340938,
+   967243834,
+   1103771163,
+   1116312645
+  ],
+  "node_ids": [
+   278285598,
+   278285536,
+   1343513524
+  ],
+  "name": "稲城福祉センター入口",
+  "axes_by_compass": "東西:南多摩尾根幹線道路・鶴川街道 / 南西(対向なし):鶴川街道・鶴川街道（信号注意！）",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "20",
+  "structure": "分岐・合流",
+  "kind": "国道の可能性あり",
+  "lat": 35.6641471,
+  "lon": 139.4429421,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "野猿街道"
+  ],
+  "ways": [
+   24593289,
+   254325128,
+   678608974,
+   678608975,
+   856048610,
+   856048611,
+   856048612,
+   856280163
+  ],
+  "node_ids": [
+   287053861,
+   267239408,
+   274084472
+  ],
+  "name": "四谷体育館東",
+  "axes_by_compass": "北東南西:野猿街道 / 北西(対向なし):(無名)",
+  "flags": [
+   "国道/都道ref衝突の疑い"
+  ],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "20",
+  "structure": "分岐・合流",
+  "kind": "国道の可能性あり",
+  "lat": 35.6759092,
+  "lon": 139.4468617,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary",
+   "trunk"
+  ],
+  "networks": [
+   "JP:national",
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "日野バイパス",
+   "野猿街道"
+  ],
+  "ways": [
+   25148653,
+   25588190,
+   164989060,
+   164997072,
+   258741626,
+   840425028,
+   857683571
+  ],
+  "node_ids": [
+   278929076,
+   274084680,
+   278929075
+  ],
+  "name": "青果市場東",
+  "axes_by_compass": "東西:日野バイパス / 南(対向なし):野猿街道",
+  "flags": [
+   "国道/都道ref衝突の疑い"
+  ],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "43",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7108973,
+  "lon": 139.413924,
+  "n_nodes": 3,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [],
+  "ways": [
+   380950581,
+   380950584,
+   970826952,
+   970826955,
+   995790061
+  ],
+  "node_ids": [
+   534233539,
+   534230572,
+   534233536
+  ],
+  "name": "高松駅北",
+  "axes_by_compass": "北東南西:(無名) / 北西(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "16",
+  "structure": "分岐・合流",
+  "kind": "国道の可能性あり",
+  "lat": 35.6843747,
+  "lon": 139.3460341,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "trunk"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "八王子バイパス",
+   "東京環状"
+  ],
+  "ways": [
+   651922049,
+   651922051,
+   651923091,
+   836960695,
+   836960696
+  ],
+  "node_ids": [
+   270851480,
+   253715563
+  ],
+  "name": "左入橋",
+  "axes_by_compass": "北東南西:東京環状 / 南東(対向なし):八王子バイパス",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6113776,
+  "lon": 139.4430991,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 6,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "南多摩尾根幹線道路",
+   "鎌倉街道"
+  ],
+  "ways": [
+   24632667,
+   261352931,
+   322133265,
+   1041185359
+  ],
+  "node_ids": [
+   274188663,
+   274188662
+  ],
+  "name": "多摩卸売市場前",
+  "axes_by_compass": "北南:鎌倉街道 / 東(対向なし):南多摩尾根幹線道路",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "156",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6084738,
+  "lon": 139.4263581,
+  "n_nodes": 2,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "南多摩尾根幹線道路",
+   "多摩モノレール通り",
+   "東京都道156号町田日野線"
+  ],
+  "ways": [
+   24633019,
+   251849574,
+   425037455,
+   445238147,
+   464646546,
+   1223551149
+  ],
+  "node_ids": [
+   3816228889,
+   267136571
+  ],
+  "name": "多摩南野",
+  "axes_by_compass": "北南:多摩モノレール通り・東京都道156号町田日野線 / 東(対向なし):南多摩尾根幹線道路",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "4",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7855781,
+  "lon": 139.4515541,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "所沢入間バイパス",
+   "所沢武蔵村山立川線"
+  ],
+  "ways": [
+   241465839,
+   645892366,
+   809345888
+  ],
+  "node_ids": [
+   277499740
+  ],
+  "name": "岩崎",
+  "axes_by_compass": "南東北西:所沢入間バイパス / 東(対向なし):所沢武蔵村山立川線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "5",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7756633,
+  "lon": 139.3401606,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "新青梅街道",
+   "青梅街道"
+  ],
+  "ways": [
+   58610057,
+   380950603,
+   467562797,
+   651847050
+  ],
+  "node_ids": [
+   3817661434
+  ],
+  "name": "瑞穂松原",
+  "axes_by_compass": "南東北西:新青梅街道・青梅街道 / 北東(対向なし):青梅街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "7",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7165432,
+  "lon": 139.5494466,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "五日市街道",
+   "五日市街道（支線）"
+  ],
+  "ways": [
+   141759373,
+   141759386,
+   1031620936,
+   1424528670
+  ],
+  "node_ids": [
+   286903426
+  ],
+  "name": "武蔵野大学前",
+  "axes_by_compass": "北東南西:五日市街道・五日市街道（支線） / 南東(対向なし):五日市街道 / 西(対向なし):五日市街道",
+  "flags": [
+   "支線/側道/連絡路を含む"
+  ],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "9",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6560894,
+  "lon": 139.5109018,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "川崎府中線",
+   "稲城大橋通り"
+  ],
+  "ways": [
+   199777979,
+   387255884,
+   387255885,
+   930625486
+  ],
+  "node_ids": [
+   318573259
+  ],
+  "name": "稲城大橋入口",
+  "axes_by_compass": "東西:川崎府中線 / 南東(対向なし):稲城大橋通り / 南(対向なし):稲城大橋通り",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "12",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6948662,
+  "lon": 139.5504906,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "新武蔵境通り",
+   "武蔵境通り",
+   "連雀通り"
+  ],
+  "ways": [
+   145230107,
+   574506374,
+   741128842,
+   1445197807
+  ],
+  "node_ids": [
+   6785981474
+  ],
+  "name": "塚",
+  "axes_by_compass": "北南:新武蔵境通り・武蔵境通り / 西(対向なし):連雀通り",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "17",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7302049,
+  "lon": 139.4648956,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "primary",
+   "proposed"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "府中街道",
+   "新府中街道",
+   "青梅街道"
+  ],
+  "ways": [
+   136741347,
+   136741349,
+   136741351,
+   1360765538
+  ],
+  "node_ids": [
+   1500279480
+  ],
+  "name": "小川町西",
+  "axes_by_compass": "北南:府中街道・新府中街道 / 北東(対向なし):府中街道 / 東(対向なし):青梅街道",
+  "flags": [
+   "未供用way混在"
+  ],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.5882485,
+  "lon": 139.4506798,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo",
+   "JP:prefectural:tokyo;JP:prefectural:kanagawa"
+  ],
+  "names": [
+   "芝溝街道",
+   "鎌倉街道"
+  ],
+  "ways": [
+   25291658,
+   260529386,
+   561703719,
+   561703723
+  ],
+  "node_ids": [
+   275511306
+  ],
+  "name": "新袋橋",
+  "axes_by_compass": "北南:(無名)・鎌倉街道 / 東(対向なし):芝溝街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "20",
+  "structure": "分岐・合流",
+  "kind": "国道の可能性あり",
+  "lat": 35.6225728,
+  "lon": 139.2632692,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "trunk",
+   "trunk_link"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "甲州街道"
+  ],
+  "ways": [
+   432387162,
+   725446166
+  ],
+  "node_ids": [
+   6802834477
+  ],
+  "name": null,
+  "axes_by_compass": "北南:甲州街道 / 東(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "20",
+  "structure": "分岐・合流",
+  "kind": "国道の可能性あり",
+  "lat": 35.668965,
+  "lon": 139.4009488,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "trunk"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "日野バイパス"
+  ],
+  "ways": [
+   26921313,
+   1442207490
+  ],
+  "node_ids": [
+   873565049
+  ],
+  "name": "坂下",
+  "axes_by_compass": "東西:日野バイパス / 南(対向なし):日野バイパス",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "29",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7188201,
+  "lon": 139.3354855,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "奥多摩街道",
+   "新奥多摩街道"
+  ],
+  "ways": [
+   134123691,
+   853388891,
+   862941116,
+   973264161
+  ],
+  "node_ids": [
+   286837723
+  ],
+  "name": null,
+  "axes_by_compass": "北南:新奥多摩街道 / 西(対向なし):奥多摩街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "41",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.645393,
+  "lon": 139.4579379,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "川崎街道",
+   "東京都道41号稲城日野線",
+   "稲城日野線"
+  ],
+  "ways": [
+   26683582,
+   254104323,
+   254104326,
+   687575369
+  ],
+  "node_ids": [
+   292640293
+  ],
+  "name": "向ノ岡",
+  "axes_by_compass": "南東北西:川崎街道 / 南西(対向なし):稲城日野線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "43",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7453242,
+  "lon": 139.4158142,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "立川東大和線",
+   "芋窪街道"
+  ],
+  "ways": [
+   28717738,
+   261211188,
+   930615766,
+   930615767
+  ],
+  "node_ids": [
+   548674770
+  ],
+  "name": null,
+  "axes_by_compass": "北南:芋窪街道 / 北西(対向なし):立川東大和線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "47",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.5576812,
+  "lon": 139.4392885,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "町田街道"
+  ],
+  "ways": [
+   296110137,
+   1014264367,
+   1181293400,
+   1264687258
+  ],
+  "node_ids": [
+   9357535148
+  ],
+  "name": null,
+  "axes_by_compass": "南東北西:(無名)・町田街道 / 北(対向なし):(無名) / 南西(対向なし):町田街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "121",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7037092,
+  "lon": 139.5589073,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "secondary",
+   "secondary_link"
+  ],
+  "networks": [],
+  "names": [
+   "三鷹通り"
+  ],
+  "ways": [
+   69350087,
+   760659663,
+   986918761,
+   986918763
+  ],
+  "node_ids": [
+   286903549
+  ],
+  "name": null,
+  "axes_by_compass": "北東南西:三鷹通り / 南(対向なし):三鷹通り",
+  "flags": [],
+  "min_arm_reach_m": 194.6,
+  "spikes": []
+ },
+ {
+  "ref": "145",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6984104,
+  "lon": 139.4465335,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [],
+  "names": [
+   "立川国分寺線"
+  ],
+  "ways": [
+   854397417,
+   854397421,
+   1427503028
+  ],
+  "node_ids": [
+   7967873690
+  ],
+  "name": null,
+  "axes_by_compass": "東西:立川国分寺線 / 南東北西:立川国分寺線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "149",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6814313,
+  "lon": 139.4057077,
+  "n_nodes": 1,
+  "max_degree": 5,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 4,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "多摩モノレール通り",
+   "立川日野線"
+  ],
+  "ways": [
+   25154165,
+   185628358,
+   330756655,
+   507780309,
+   1340018378
+  ],
+  "node_ids": [
+   4972237340
+  ],
+  "name": "立日橋南",
+  "axes_by_compass": "北東南西:多摩モノレール通り・立川日野線 / 南東(対向なし):多摩モノレール通り / 南(対向なし):多摩モノレール通り",
+  "flags": [],
+  "min_arm_reach_m": 379.0,
+  "spikes": []
+ },
+ {
+  "ref": "156",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.610674,
+  "lon": 139.4380069,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "一本杉公園通り",
+   "南多摩尾根幹線道路"
+  ],
+  "ways": [
+   24632688,
+   327682546,
+   327682550,
+   489495580
+  ],
+  "node_ids": [
+   275512842
+  ],
+  "name": "恵泉女学園大学前",
+  "axes_by_compass": "東西:南多摩尾根幹線道路 / 南(対向なし):一本杉公園通り",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "157",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6406193,
+  "lon": 139.4370335,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "東京都道157号乞田東寺方線"
+  ],
+  "ways": [
+   24550868,
+   25154603,
+   254109698,
+   254109706
+  ],
+  "node_ids": [
+   274189690
+  ],
+  "name": null,
+  "axes_by_compass": "北南:東京都道157号乞田東寺方線 / 東(対向なし):東京都道157号乞田東寺方線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "165",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7387662,
+  "lon": 139.2986724,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [],
+  "names": [
+   "伊奈福生線"
+  ],
+  "ways": [
+   134228825,
+   844771260,
+   844771261,
+   844771273
+  ],
+  "node_ids": [
+   1476534563
+  ],
+  "name": null,
+  "axes_by_compass": "東西:伊奈福生線 / 南(対向なし):伊奈福生線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "234",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.7431326,
+  "lon": 139.5578191,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo;JP:prefectural:saitama"
+  ],
+  "names": [
+   "伏見通り",
+   "前沢保谷線"
+  ],
+  "ways": [
+   241576395,
+   562764559,
+   931734345,
+   931734346
+  ],
+  "node_ids": [
+   5424772427
+  ],
+  "name": "西東京泉町五丁目",
+  "axes_by_compass": "北南:伏見通り / 南東(対向なし):前沢保谷線",
+  "flags": [],
+  "min_arm_reach_m": 194.6,
+  "spikes": []
+ },
+ {
+  "ref": "503",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.6743202,
+  "lon": 139.4157644,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "多摩モノレール通り"
+  ],
+  "ways": [
+   857672225,
+   1327806632,
+   1327806633,
+   1340018367
+  ],
+  "node_ids": [
+   274170251
+  ],
+  "name": null,
+  "axes_by_compass": "南東北西:多摩モノレール通り / 北東(対向なし):(無名)",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "503",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.5975926,
+  "lon": 139.3793505,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "南多摩尾根幹線道路",
+   "相模原立川線"
+  ],
+  "ways": [
+   25160542,
+   295942015,
+   311916260,
+   314196401
+  ],
+  "node_ids": [
+   3176757488
+  ],
+  "name": null,
+  "axes_by_compass": "北東南西:南多摩尾根幹線道路 / 南(対向なし):相模原立川線",
+  "flags": [],
+  "min_arm_reach_m": 267.9,
+  "spikes": []
+ },
+ {
+  "ref": "510",
+  "structure": "分岐・合流",
+  "kind": "都道",
+  "lat": 35.5862159,
+  "lon": 139.2956281,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 3,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "secondary"
+  ],
+  "networks": [
+   "JP:prefectural"
+  ],
+  "names": [
+   "津久井広域道路",
+   "長竹川尻線"
+  ],
+  "ways": [
+   25490159,
+   25512046,
+   336770280,
+   449234463
+  ],
+  "node_ids": [
+   2651990474
+  ],
+  "name": "新小倉橋西側",
+  "axes_by_compass": "東西:津久井広域道路 / 南(対向なし):長竹川尻線",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "18",
+  "structure": "並走",
+  "kind": "都道",
+  "lat": 35.6148947,
+  "lon": 139.450382,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 2,
+  "axes": 1,
+  "arms": 3,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo"
+  ],
+  "names": [
+   "南多摩尾根幹線道路"
+  ],
+  "ways": [
+   24632352,
+   24632667,
+   24632908,
+   675473480
+  ],
+  "node_ids": [
+   267761516
+  ],
+  "name": "多摩給食センター前",
+  "axes_by_compass": "北東南西:南多摩尾根幹線道路 / 南(対向なし):南多摩尾根幹線道路",
+  "flags": [],
+  "min_arm_reach_m": 27.3,
+  "spikes": []
+ },
+ {
+  "ref": "9",
+  "structure": "並走",
+  "kind": "都道",
+  "lat": 35.6480777,
+  "lon": 139.4886977,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 2,
+  "axes": 0,
+  "arms": 2,
+  "classes": [
+   "primary"
+  ],
+  "networks": [
+   "JP:prefectural:tokyo;JP:prefectural:kanagawa"
+  ],
+  "names": [
+   "城山通り",
+   "川崎街道",
+   "府中街道"
+  ],
+  "ways": [
+   378648663,
+   972713997,
+   1046768518,
+   1046768519
+  ],
+  "node_ids": [
+   9002630801
+  ],
+  "name": null,
+  "axes_by_compass": "北(対向なし):府中街道 / 東(対向なし):川崎街道",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ },
+ {
+  "ref": "254",
+  "structure": "並走",
+  "kind": "国道の可能性あり",
+  "lat": 35.8467077,
+  "lon": 139.5750122,
+  "n_nodes": 1,
+  "max_degree": 4,
+  "dirs": 2,
+  "axes": 0,
+  "arms": 2,
+  "classes": [
+   "trunk",
+   "trunk_link"
+  ],
+  "networks": [
+   "JP:national"
+  ],
+  "names": [
+   "富士見川越バイパス",
+   "浦和所沢バイパス"
+  ],
+  "ways": [
+   34635465,
+   189838986,
+   742888730,
+   742888731
+  ],
+  "node_ids": [
+   564628192
+  ],
+  "name": "下南畑",
+  "axes_by_compass": "南西(対向なし):浦和所沢バイパス / 北西(対向なし):富士見川越バイパス",
+  "flags": [],
+  "min_arm_reach_m": 400.0,
+  "spikes": []
+ }
+]
